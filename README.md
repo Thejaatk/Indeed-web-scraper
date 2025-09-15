@@ -79,15 +79,6 @@ if __name__ == "__main__":
 
     driver.quit()
 
-📊 Output Example
-
-The script generates an Excel file like:
-
-Job_itle	                 Company	Location	 Summary	                      URL
-Machine Learning Engineer	ABC Tech	Bengaluru, IN	Work on ML models & NLP...	https://indeed
-...
-Data Scientist	XYZ Pvt Ltd	Remote	Responsible for data...	https://indeed
-...
 🚀 Future Enhancements
 
 📈 Data visualization of job stats (roles, companies, locations)
